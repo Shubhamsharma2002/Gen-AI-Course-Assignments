@@ -7,7 +7,7 @@ Welcome to my central repository for the **Generative AI Course**. This reposito
 | Task | Topic | Folder | Status |
 | :--- | :--- | :--- | :--- |
 | **01** | **Python Data Structures** | [Go to Task 1](./Assignment_1/) | ✅ Completed |
-| **02** | **Control Flow (Conditionals & Loops)** | [Go to Task 2](./02-Advanced-Libraries/) | ⏳ Upcoming |
+| **02** | **Control Flow (Conditionals & Loops)** | [Go to Task 2](./Assignment_2/) | ⏳ Upcoming |
 | **03** | **Functions (User-Defined, Recursive, Lambda, Map, Filter)** | [Go to Task 2](./02-Advanced-Libraries/) | ⏳ Upcoming |
 
 ---
