@@ -1,6 +1,8 @@
 # Gen AI Course: Assignment Portfolio 🚀
 
-Welcome to my central repository for the **Generative AI Course**. This repository tracks my progress from Python fundamentals to advanced AI implementations.
+Welcome to my central repository for the **Generative AI Course**. This repository tracks my progress from Python fundamentals to advanced AI implementations. 
+
+
 
 
 ## 📂 Curriculum & Assignments
