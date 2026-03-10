@@ -11,7 +11,7 @@ Welcome to my central repository for the **Generative AI Course**. This reposito
 | **02** | **Control Flow (Conditionals & Loops)** | [Go to Task 2](./Assignment_2/) | ✅ Completed |
 | **03** | **Functions (User-Defined, Recursive, Lambda, Map, Filter)** | [Go to Task 3](./Assignment_3/) | ✅ Completed |
 | **04** | **File Handling (Read, Write, Append, Modes)** | [Go to Task 4](./Assignment_4/) | ✅ Completed |
-| **05** | **Importing, Creating Modules & Packages** | [Go to Task 5](./02-Advanced-Libraries/) | ⏳ Upcoming |
+| **05** | **Importing, Creating Modules & Packages** | [Go to Task 5](./Assignment_5/) |  ✅ Completed |
 | **06** | **Exception Handling** | [Go to Task 6](./02-Advanced-Libraries/) | ⏳ Upcoming |
 
 ---
