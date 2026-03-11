@@ -16,6 +16,8 @@ Welcome to my central repository for the **Generative AI Course**. This reposito
 
 ---
 
+
+
 ## 🛠️ Environment & Tools
 * **Language:** Python 3.10+
 * **Environment:** Jupyter Notebooks 
