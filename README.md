@@ -21,5 +21,7 @@ Welcome to my central repository for the **Generative AI Course**. This reposito
 * **Environment:** Jupyter Notebooks 
 * **Key Skills:** Data Structures, Logic Flow, API Integration.
 
+
+
 ## 👤 Author
 * **Shubham Sharma** - [linkedin](https://www.linkedin.com/in/shubhamsharma2026/)
