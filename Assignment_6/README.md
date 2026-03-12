@@ -6,9 +6,11 @@ This assignment focuses on building "crash-proof" applications by handling runti
 * **Else & Finally**: To manage code execution flow regardless of whether an error occurred.
 * **Custom Exceptions**: Using `raise` to enforce business rules (e.g., age ranges or negative prices).
 
+
 ## 📁 Files in this Folder
 * `exception_handling_assignment.ipynb`: Full solution containing Tasks 1 through 5.
 * `README.md`: This documentation file.
+
 
 ## 🚀 Key Features
 1. **Safe Calculations**: A division utility that handles non-numeric input and division by zero.
