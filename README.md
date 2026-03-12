@@ -12,7 +12,10 @@ Welcome to my central repository for the **Generative AI Course**. This reposito
 | **03** | **Functions (User-Defined, Recursive, Lambda, Map, Filter)** | [Go to Task 3](./Assignment_3/) | ✅ Completed |
 | **04** | **File Handling (Read, Write, Append, Modes)** | [Go to Task 4](./Assignment_4/) | ✅ Completed |
 | **05** | **Importing, Creating Modules & Packages** | [Go to Task 5](./Assignment_5/) |  ✅ Completed |
-| **06** | **Exception Handling** | [Go to Task 6](./02-Advanced-Libraries/) | ⏳ Upcoming |
+| **06** | **Exception Handling** | [Go to Task 6](./Assignment_6/) |  ✅ Completed |
+| **07** | **Object-Oriented Programming (OOP)** | [Go to Task 6](./02-Advanced-Libraries/) | ⏳ Upcoming |
+| **08** | **Streamlit (Basic App Building)** | [Go to Task 6](./02-Advanced-Libraries/) | ⏳ Upcoming |
+| **09** | **NumPy (Mathematical & Statistical Operations)** | [Go to Task 6](./02-Advanced-Libraries/) | ⏳ Upcoming |
 
 ---
 
