@@ -12,6 +12,7 @@ This assignment focuses on building "crash-proof" applications by handling runti
 * `README.md`: This documentation file.
 
 
+
 ## 🚀 Key Features
 1. **Safe Calculations**: A division utility that handles non-numeric input and division by zero.
 2. **Data Sanitization**: A bill calculator that skips strings and negative values while continuing to process valid items.
