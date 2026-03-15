@@ -17,6 +17,7 @@ This assignment focuses on building "crash-proof" applications by handling runti
 3. **Age Validation**: Logic to ensure user-provided ages fall within a realistic 1-120 range.
 4. **Resilient Shopping Cart**: An interactive loop that collects prices and summarizes totals while ignoring invalid entries.
 
+
 ## ⚙️ How to Run
 1. Open the `.ipynb` file in **Jupyter Notebook**.
 2. Run the cells sequentially.
