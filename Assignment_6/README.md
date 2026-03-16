@@ -23,3 +23,4 @@ This assignment focuses on building "crash-proof" applications by handling runti
 1. Open the `.ipynb` file in **Jupyter Notebook**.
 2. Run the cells sequentially.
 3. Call the specific functions (e.g., `safe_shopping_cart()`) to interact with the programs.
+
